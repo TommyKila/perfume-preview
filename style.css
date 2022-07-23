@@ -4,12 +4,12 @@
 
 @font-face {
     font-family: Montserrat;
-    src: url(./fonts/Montserrat-VariableFont_wght.ttf);
+    src: url(./Montserrat-VariableFont_wght.ttf);
 }
 
 @font-face {
     font-family: Fraunces;
-    src: url(./fonts/Fraunces-VariableFont_SOFT\,WONK\,opsz\,wght.ttf);
+    src: url(./Fraunces-VariableFont_SOFT\,WONK\,opsz\,wght.ttf);
 }
 
 body {
